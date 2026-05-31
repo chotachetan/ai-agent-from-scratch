@@ -1,0 +1,48 @@
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pacs.008.001.08">
+  <FIToFICstmrCdtTrf>
+    <CdtTrfTxInf>
+      <PmtId>
+        <EndToEndId>REF20260526001</EndToEndId>
+      </PmtId>
+      <IntrBkSttlmAmt Ccy="USD">1500.00</IntrBkSttlmAmt>
+      <IntrBkSttlmDt>2026-05-26</IntrBkSttlmDt>
+      <Dbtr>
+        <Nm>JOHN SMITH</Nm>
+        <PstlAdr>
+          <StrtNm>MAIN ST</StrtNm>
+          <BldgNb>123</BldgNb>
+          <PstCd>10001</PstCd>
+          <TwnNm>NEW YORK</TwnNm>
+          <Ctry>US</Ctry>
+        </PstlAdr>
+      </Dbtr>
+      <DbtrAcct>
+        <Id>
+          <Othr>
+            <Id>12345678</Id>
+          </Othr>
+        </Id>
+      </DbtrAcct>
+      <Cdtr>
+        <Nm>ACME WIDGETS LTD</Nm>
+        <PstlAdr>
+          <StrtNm>OLD STREET</StrtNm>
+          <BldgNb>17</BldgNb>
+          <PstCd>EC1V 9HL</PstCd>
+          <TwnNm>LONDON</TwnNm>
+          <Ctry>GB</Ctry>
+        </PstlAdr>
+      </Cdtr>
+      <CdtrAcct>
+        <Id>
+          <Othr>
+            <Id>98765432</Id>
+          </Othr>
+        </Id>
+      </CdtrAcct>
+      <RmtInf>
+        <Ustrd>INVOICE 2026-0517 OFFICE SUPPLIES</Ustrd>
+      </RmtInf>
+    </CdtTrfTxInf>
+  </FIToFICstmrCdtTrf>
+</Document>
