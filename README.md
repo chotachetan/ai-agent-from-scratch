@@ -253,4 +253,4 @@ The carousel ships these ten slides:
 
 *Agent frameworks are convenience, not necessity. The pattern is the asset.*
 
-**License:** [MIT](LICENSE) · **Author:** [Surya Buruju](https://github.com/chotachetan) · *Builder Notes № 01*
+**License:** [MIT](LICENSE) · **Author:** [Surya](https://github.com/chotachetan) · *Builder Notes*
