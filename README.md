@@ -26,7 +26,7 @@ You need Python 3.10+ and [Ollama](https://ollama.com) running locally.
 brew install ollama
 ollama serve                          # leave running in another terminal
 
-# 2. pull a small model — ~3GB, runs on 16GB RAM
+# 2. pull a small model — ~7.2GB, runs on 16GB RAM
 ollama pull gemma4:e2b
 
 # 3. clone + install
